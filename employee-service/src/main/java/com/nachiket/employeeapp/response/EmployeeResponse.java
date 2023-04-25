@@ -13,4 +13,5 @@ public class EmployeeResponse {
   private String name;
   private String email;
   private  String bloodGroup;
+  private AddressResponse addressResponse;
 }
